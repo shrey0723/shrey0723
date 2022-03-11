@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shrey0723
+- 👋 Hi, I’m Augi
 - 👀 I’m interested in web Development||ML&AI||game development
 - 🌱 I’m currently learning all sorts of things 
 - 💞️ I’m looking to collaborate on any project related to my interest
