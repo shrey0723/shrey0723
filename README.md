@@ -10,11 +10,25 @@
 - Game development  <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-game-development-game-development-flaticons-flat-flat-icons.png" width="25" height="25" />
 - 3D modeling and designs(asset generation)  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/344/external-3d-modeling-diy-flaticons-lineal-color-flat-icons-3.png" width="25" height="25" />
 
-## I’m currently learning  <img src="https://media.giphy.com/media/uENJtJp1SGd597E7tL/giphy.gif" width="40" height="40" />
+## I’m currently learning  <img src="https://media.giphy.com/media/XpRoPjGRLHgZCiIg0K/giphy.gif" width="40" height="40" />
+- All sorts of things
+- mostly more about web dev 
+- communities
 
 ## I’m looking to collaborate  <img src="https://media.giphy.com/media/Bz3J61Fswq1zdruPBI/giphy.gif" widht="40" height="40" />
+- in web dev projects
+- innovative ideas
+- game dev projects
+- android projects
+- ML&AI projects
 
-## My Goals  <img src="https://media.giphy.com/media/GXZVx7kiFQ1IuZpB8o/giphy.gif" widht="40" height="40" />
+## My Goals  <img src="https://media.giphy.com/media/l0K4m8FLCB4anX60g/giphy.gif" widht="40" height="40" />
+- go get in and contribute in community
+- ```python 
+     print("to be well versed in some of the important languages")
+     ```
+- to contibute in open source
+- be myself
 
 ## How to reach me <img src="https://media.giphy.com/media/huyZxIJvtqVeRp7QcS/giphy.gif" width="30" height="30" />
 [<img src="https://media.giphy.com/media/SMKiEh9WDO6ze/giphy.gif" width="40" height="40" />][twitter]
