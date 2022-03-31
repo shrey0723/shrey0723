@@ -1,6 +1,6 @@
-## Hi, I’m Shrey -aka- [Augi][Instagram] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="140" height="140" />
-<p>The Code dosent work....why???,,Now it works....why!!??
+## <p align="center"> Hi, I’m Shrey -aka- [Augi][Instagram] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </p>
+<p align="center"><img src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif" width="140" height="140" /></p>
+<p align="center">The Code dosent work....why???,,Now it works....why!!??
 <img src="https://media.giphy.com/media/DfSXiR60W9MVq/giphy.gif" width="60" height="40" /></p>
 
 
@@ -49,7 +49,7 @@
 
 
 
-<img src="https://activity-graph.herokuapp.com/graph?username=shrey0723&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=shrey0723&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true"> </p>
 
 
 
